@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Nicolas
 
-I'm a software engineer based in Berlin, Germany. Currently a Computer Science student at the Technische Universität Berlin,
-who is passionate about learning and development.
+I'm a Computer Science student based in Berlin, Germany. Currently studying at the Technische Universität Berlin. Strongly dedicated to learning, I like teamwork and place great value in communication.****
 
 <!---
 dahbar/dahbar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
